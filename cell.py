@@ -16,3 +16,5 @@ class Cell(pygame.sprite.Sprite):
     def check_click(self, mouse_pos):
         if self.rect.collidepoint(mouse_pos):
             return True
+
+#This is a test
