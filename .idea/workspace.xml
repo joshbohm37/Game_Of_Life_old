@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfe0361b-f0de-4903-9e71-5cf749a0a99f" name="Changes" comment="Test second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfe0361b-f0de-4903-9e71-5cf749a0a99f" name="Changes" comment="Test second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <workItem from="1642039956197" duration="6127000" />
       <workItem from="1642226807872" duration="1360000" />
       <workItem from="1642229193305" duration="246000" />
-      <workItem from="1642229448015" duration="943000" />
+      <workItem from="1642229448015" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="Test second commit">
       <created>1642230382649</created>
